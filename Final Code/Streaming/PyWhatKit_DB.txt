@@ -1,0 +1,30 @@
+Date: 22/6/2024
+Time: 13:59
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-21*Time:* 20:06:46*News:*Growth Stocks Leave Value Stocks In The Dust: 4 Reasons For Biggest Monthly Lead In Over A Year*Sentiment:* negative (*Probability:* 0.47838178277015686)*Suggestion:* *Hold*
+--------------------
+Date: 22/6/2024
+Time: 14:0
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-21*Time:* 19:57:57*News:*Market Could Take Normal, Routine Pause After Record Highs, Strategist Says: 'Now's The Time If You Have Profits To Book Them'*Sentiment:* neutral (*Probability:* 0.4992232620716095)*Suggestion:* *Hold*
+--------------------
+Date: 22/6/2024
+Time: 14:1
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-21*Time:* 17:35:12*News:*10 Information Technology Stocks Whale Activity In Today's Session*Sentiment:* neutral (*Probability:* 0.861282229423523)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 14:11
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 9:47
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 21:22:16*News:*Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value*Sentiment:* positive (*Probability:* 0.8823863863945007)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 9:48
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 20:53:43*News:*Nvidia Rebounds Over 6% After $550B Market Cap Loss*Sentiment:* positive (*Probability:* 0.7314959764480591)*Suggestion:* *Hold*
+--------------------
