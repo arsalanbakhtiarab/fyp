@@ -1,0 +1,455 @@
+Date: 25/6/2024
+Time: 10:0
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:16
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:17
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:18
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:19
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:20
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:59:47*News:*Nvidia Dominates GPU Market as Generative AI Adoption Grows, Analyst Says*Sentiment:* positive (*Probability:* 0.8758331537246704)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:33
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:34
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:39
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:44
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:46
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:47
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:48
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:49
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:50
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:59:47*News:*Nvidia Dominates GPU Market as Generative AI Adoption Grows, Analyst Says*Sentiment:* positive (*Probability:* 0.8758331537246704)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:51
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:52:09*News:*Split Fortunes In The Tech Sector Puts Spotlight On Direxion's Daily MSFT Bull 2X (MSFU) And 1X Bear (MSFD) ETFs*Sentiment:* positive (*Probability:* 0.548992931842804)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:52
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:35:12*News:*10 Information Technology Stocks Whale Activity In Today's Session*Sentiment:* neutral (*Probability:* 0.861282229423523)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:53
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:29:21*News:*Melius Research Maintains Buy on Apple, Raises Price Target to $260*Sentiment:* positive (*Probability:* 0.743606686592102)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:54
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:19:52*News:*Why Meta Stock Is Trading Higher Monday*Sentiment:* neutral (*Probability:* 0.730320930480957)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 10:55
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 15:59:45*News:*Micron Earnings Will Determine Course Of AI Rally, Apple's Europe Problem, Bitcoin ETF Inflows Cool*Sentiment:* neutral (*Probability:* 0.8177278637886047)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:0
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:1
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:4
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:6
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:7
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:7
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:8
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:8
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:11
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:12
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:13
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:14
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:15
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:59:47*News:*Nvidia Dominates GPU Market as Generative AI Adoption Grows, Analyst Says*Sentiment:* positive (*Probability:* 0.8758331537246704)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:16
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:52:09*News:*Split Fortunes In The Tech Sector Puts Spotlight On Direxion's Daily MSFT Bull 2X (MSFU) And 1X Bear (MSFD) ETFs*Sentiment:* positive (*Probability:* 0.548992931842804)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:17
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:35:12*News:*10 Information Technology Stocks Whale Activity In Today's Session*Sentiment:* neutral (*Probability:* 0.861282229423523)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:18
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:29:21*News:*Melius Research Maintains Buy on Apple, Raises Price Target to $260*Sentiment:* positive (*Probability:* 0.743606686592102)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:19
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:19:52*News:*Why Meta Stock Is Trading Higher Monday*Sentiment:* neutral (*Probability:* 0.730320930480957)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:20
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 15:59:45*News:*Micron Earnings Will Determine Course Of AI Rally, Apple's Europe Problem, Bitcoin ETF Inflows Cool*Sentiment:* neutral (*Probability:* 0.8177278637886047)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:23
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:24
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:25
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:31
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:32
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:33
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:34
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:35
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:59:47*News:*Nvidia Dominates GPU Market as Generative AI Adoption Grows, Analyst Says*Sentiment:* positive (*Probability:* 0.8758331537246704)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:36
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:52:09*News:*Split Fortunes In The Tech Sector Puts Spotlight On Direxion's Daily MSFT Bull 2X (MSFU) And 1X Bear (MSFD) ETFs*Sentiment:* positive (*Probability:* 0.548992931842804)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:37
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:35:12*News:*10 Information Technology Stocks Whale Activity In Today's Session*Sentiment:* neutral (*Probability:* 0.861282229423523)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:38
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:29:21*News:*Melius Research Maintains Buy on Apple, Raises Price Target to $260*Sentiment:* positive (*Probability:* 0.743606686592102)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:39
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:19:52*News:*Why Meta Stock Is Trading Higher Monday*Sentiment:* neutral (*Probability:* 0.730320930480957)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:40
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 15:59:45*News:*Micron Earnings Will Determine Course Of AI Rally, Apple's Europe Problem, Bitcoin ETF Inflows Cool*Sentiment:* neutral (*Probability:* 0.8177278637886047)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:42
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:44
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:45
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:46
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:47
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:59:47*News:*Nvidia Dominates GPU Market as Generative AI Adoption Grows, Analyst Says*Sentiment:* positive (*Probability:* 0.8758331537246704)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:48
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:52:09*News:*Split Fortunes In The Tech Sector Puts Spotlight On Direxion's Daily MSFT Bull 2X (MSFU) And 1X Bear (MSFD) ETFs*Sentiment:* positive (*Probability:* 0.548992931842804)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:49
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:35:12*News:*10 Information Technology Stocks Whale Activity In Today's Session*Sentiment:* neutral (*Probability:* 0.861282229423523)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:50
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:29:21*News:*Melius Research Maintains Buy on Apple, Raises Price Target to $260*Sentiment:* positive (*Probability:* 0.743606686592102)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:51
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:19:52*News:*Why Meta Stock Is Trading Higher Monday*Sentiment:* neutral (*Probability:* 0.730320930480957)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:52
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 15:59:45*News:*Micron Earnings Will Determine Course Of AI Rally, Apple's Europe Problem, Bitcoin ETF Inflows Cool*Sentiment:* neutral (*Probability:* 0.8177278637886047)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:58
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 11:59
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:0
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:1
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:2
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:59:47*News:*Nvidia Dominates GPU Market as Generative AI Adoption Grows, Analyst Says*Sentiment:* positive (*Probability:* 0.8758331537246704)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:3
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:52:09*News:*Split Fortunes In The Tech Sector Puts Spotlight On Direxion's Daily MSFT Bull 2X (MSFU) And 1X Bear (MSFD) ETFs*Sentiment:* positive (*Probability:* 0.548992931842804)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:4
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:35:12*News:*10 Information Technology Stocks Whale Activity In Today's Session*Sentiment:* neutral (*Probability:* 0.861282229423523)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:5
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:29:21*News:*Melius Research Maintains Buy on Apple, Raises Price Target to $260*Sentiment:* positive (*Probability:* 0.743606686592102)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:6
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:19:52*News:*Why Meta Stock Is Trading Higher Monday*Sentiment:* neutral (*Probability:* 0.730320930480957)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:7
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 15:59:45*News:*Micron Earnings Will Determine Course Of AI Rally, Apple's Europe Problem, Bitcoin ETF Inflows Cool*Sentiment:* neutral (*Probability:* 0.8177278637886047)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:11
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:13
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:14
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:15
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:18
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:20
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:21
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:22
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:23
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 18:26:35*News:*What's Going On With Affirm Stock?*Sentiment:* negative (*Probability:* 0.4985244572162628)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:24
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:59:47*News:*Nvidia Dominates GPU Market as Generative AI Adoption Grows, Analyst Says*Sentiment:* positive (*Probability:* 0.8758331537246704)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:25
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:52:09*News:*Split Fortunes In The Tech Sector Puts Spotlight On Direxion's Daily MSFT Bull 2X (MSFU) And 1X Bear (MSFD) ETFs*Sentiment:* positive (*Probability:* 0.548992931842804)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:26
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 17:35:12*News:*10 Information Technology Stocks Whale Activity In Today's Session*Sentiment:* neutral (*Probability:* 0.861282229423523)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 12:29
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 10:39
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 21:22:16*News:*Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value*Sentiment:* positive (*Probability:* 0.8823863863945007)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 10:41
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 21:22:16*News:*Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value*Sentiment:* positive (*Probability:* 0.8823863863945007)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 11:55
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 21:22:16*News:*Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value*Sentiment:* positive (*Probability:* 0.8823863863945007)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 12:8
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 21:22:16*News:*Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value*Sentiment:* positive (*Probability:* 0.8823863863945007)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 12:9
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 20:53:43*News:*Nvidia Rebounds Over 6% After $550B Market Cap Loss*Sentiment:* positive (*Probability:* 0.7314959764480591)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 12:10
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 18:53:54*News:*'New York Times to Move Podcasts Behind Paywall' - WSJ*Sentiment:* neutral (*Probability:* 0.8903927206993103)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 12:47
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 21:22:16*News:*Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value*Sentiment:* positive (*Probability:* 0.8823863863945007)*Suggestion:* *Hold*
+--------------------

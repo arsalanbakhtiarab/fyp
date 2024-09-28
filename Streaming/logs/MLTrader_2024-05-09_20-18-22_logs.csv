@@ -1,0 +1,58 @@
+2024-05-09 20:18:22,184: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-05-09 20:18:22,366: alpaca.trading.stream: INFO: connected to: BaseURL.TRADING_STREAM_PAPER
+2024-05-09 20:18:23,826: root: INFO: Current backtesting datetime 2023-12-15 08:30:00-05:00
+2024-05-09 20:18:23,877: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-05-09 20:18:23,885: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-05-09 20:18:23,885: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-05-09 20:18:23,893: asyncio: INFO: [MLTrader] Executing the on_trading_iteration lifecycle method at 2024-05-09 20:18:23
+2024-05-09 20:18:23,895: asyncio: INFO: [MLTrader] New order was created: market order of | 10 SPY buy | with status new
+2024-05-09 20:18:23,912: asyncio: INFO: [MLTrader] Trading iteration ended at 2024-05-09 20:18:23
+2024-05-09 20:18:23,912: asyncio: INFO: [MLTrader] Getting historical prices for SPY, 1 bars, 
+2024-05-09 20:18:23,912: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-05-09 20:18:32,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-05-09 20:18:32,747: asyncio: INFO: [MLTrader] Order was filled: market order of | 10 SPY buy | at price $469.49 with status fill
+2024-05-09 20:18:32,763: asyncio: INFO: [MLTrader] Sleeping for 86400 seconds
+2024-05-09 20:18:32,763: root: INFO: Current backtesting datetime 2023-12-15 16:00:00-05:00
+2024-05-09 20:18:32,763: root: INFO: Current backtesting datetime 2023-12-16 09:30:00-05:00
+2024-05-09 20:18:32,763: asyncio: INFO: [MLTrader] The market is not currently open, skipping this trading iteration
+2024-05-09 20:18:32,776: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-05-09 20:18:32,776: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-05-09 20:18:32,776: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-05-09 20:18:32,782: root: INFO: Current backtesting datetime 2023-12-18 08:30:00-05:00
+2024-05-09 20:18:32,808: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-05-09 20:18:32,808: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-05-09 20:18:32,808: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-05-09 20:18:32,808: root: INFO: Current backtesting datetime 2023-12-18 09:30:00-05:00
+2024-05-09 20:18:32,808: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-05-09 20:18:32,815: asyncio: INFO: [MLTrader] Executing the on_trading_iteration lifecycle method at 2024-05-09 20:18:32
+2024-05-09 20:18:32,815: asyncio: ERROR: [MLTrader] cannot access local variable 'order' where it is not associated with a value
+2024-05-09 20:18:32,883: asyncio: ERROR: [MLTrader] Traceback (most recent call last):
+  File "C:\Users\Arsalan Bakhtiar AB\AppData\Roaming\Python\Python312\site-packages\lumibot\strategies\strategy_executor.py", line 919, in run
+    self._run_trading_session()
+  File "C:\Users\Arsalan Bakhtiar AB\AppData\Roaming\Python\Python312\site-packages\lumibot\strategies\strategy_executor.py", line 867, in _run_trading_session
+    self._on_trading_iteration()
+  File "C:\Users\Arsalan Bakhtiar AB\AppData\Roaming\Python\Python312\site-packages\lumibot\strategies\strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Arsalan Bakhtiar AB\AppData\Roaming\Python\Python312\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Arsalan Bakhtiar AB\AppData\Roaming\Python\Python312\site-packages\lumibot\strategies\strategy_executor.py", line 397, in _on_trading_iteration
+    raise e
+  File "C:\Users\Arsalan Bakhtiar AB\AppData\Roaming\Python\Python312\site-packages\lumibot\strategies\strategy_executor.py", line 369, in _on_trading_iteration
+    on_trading_iteration()
+  File "C:\Users\Arsalan Bakhtiar AB\AppData\Roaming\Python\Python312\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Arsalan Bakhtiar AB\AppData\Roaming\Python\Python312\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "d:\FYP\Streaming\tradingbot.py", line 49, in on_trading_iteration
+    self.submit_order(order)
+                      ^^^^^
+UnboundLocalError: cannot access local variable 'order' where it is not associated with a value
+
+2024-05-09 20:18:32,883: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-05-09 20:18:36,737: root: INFO: Backtesting finished
+2024-05-09 20:18:43,881: root: ERROR: Not enough data to create a tearsheet, at least 2 days of data are required. Skipping
+2024-05-09 20:18:43,881: backtest_stats: INFO: Backtest took 0:00:21.702336 for a speed of 0.000

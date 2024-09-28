@@ -1,0 +1,85 @@
+Date: 21/5/2024
+Time: 8:46
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 20:11:10*News:*Institutional Investors Favor Oracle, Global Payments, Micron Stocks Over Apple And Nvidia In Q1*Sentiment:* positive (*Probability:* 0.833911120891571)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:47
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 19:56:35*News:*Meta And LG Slow Down XR Collaboration As LG Considers Amazon Partnership: Report*Sentiment:* negative (*Probability:* 0.8663928508758545)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:49
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 16:03:40*News:*Microsoft To Unveil New Surface Devices At Redmond Event*Sentiment:* neutral (*Probability:* 0.8142885565757751)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:50
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 15:00:10*News:*Silver, Gold, And Copper Breakout, Wall Street's Last Bear Throws In The Towel*Sentiment:* neutral (*Probability:* 0.7255624532699585)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:51
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 14:04:29*News:*Apple's Groundbreaking iPhone 16 Could Spark Another Stock Surge Building On An 800% Growth Over The Last Decade*Sentiment:* positive (*Probability:* 0.9365880489349365)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:52
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 14:08:23*News:*"Apple Wants All Of TSMC's 2nm Chips, So They Sent Jeff Williams In Secret" - Apple Insider*Sentiment:* neutral (*Probability:* 0.9302460551261902)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:53
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 12:51:26*News:*'Apple Slashes Prices Of iPhone 15 Models To New Low In China Amid Heated Competition In World's Largest Smartphone Market; Mainland Online Retailers JD.com And Alibaba's Tmall On Monday Started Offering Deeper Discounts On iPhone 15 Models' - SCMP*Sentiment:* negative (*Probability:* 0.9561635255813599)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:54
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 12:05:09*News:*TikTok Parent ByteDance Overtakes Baidu In AI Chatbot Race In China: Report*Sentiment:* neutral (*Probability:* 0.8053624033927917)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:55
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 12:04:57*News:*Apple, Snap And 2 Other Stocks Insiders Are Selling*Sentiment:* neutral (*Probability:* 0.9395246505737305)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 8:56
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 11:31:41*News:*What's New In Consumer Tech World Last Week? News That You Should Know (May 12-May 19, 2024)*Sentiment:* neutral (*Probability:* 0.9134979844093323)*Suggestion:* *Hold*
+--------------------
+Date: 21/5/2024
+Time: 9:0
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-05-20*Time:* 20:11:10*News:*Institutional Investors Favor Oracle, Global Payments, Micron Stocks Over Apple And Nvidia In Q1*Sentiment:* positive (*Probability:* 0.833911120891571)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 9:54
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:50:38*News:*Dan Ives Says Apple Stock Is Headed To $300, Tim Cook Could Claim 'Godfather Of AI' Title: 'It's Their Castle'*Sentiment:* neutral (*Probability:* 0.8925013542175293)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 9:55
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 20:40:38*News:*Michael Saylor 2012 Apple Stock Prediction Goes Viral, Here's What Bitcoin Bull Got Right: 'Whoever Is Selling That Stock Must Be A Moron'*Sentiment:* neutral (*Probability:* 0.6971771717071533)*Suggestion:* *Hold*
+--------------------
+Date: 25/6/2024
+Time: 9:56
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-24*Time:* 19:05:49*News:*While Tesla Slashes Jobs, Apple, Alphabet Raises Executive Salaries By Millions*Sentiment:* neutral (*Probability:* 0.4702463448047638)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 10:33
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 21:22:16*News:*Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value*Sentiment:* positive (*Probability:* 0.8823863863945007)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 10:34
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 20:53:43*News:*Nvidia Rebounds Over 6% After $550B Market Cap Loss*Sentiment:* positive (*Probability:* 0.7314959764480591)*Suggestion:* *Hold*
+--------------------
+Date: 26/6/2024
+Time: 10:36
+Group ID: JfVqbe4ZepL4N8X59LmtmO
+Message: *Company:* AAPL*Date:* 2024-06-25*Time:* 21:22:16*News:*Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value*Sentiment:* positive (*Probability:* 0.8823863863945007)*Suggestion:* *Hold*
+--------------------

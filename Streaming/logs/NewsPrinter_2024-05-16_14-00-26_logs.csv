@@ -1,0 +1,710 @@
+2024-05-16 14:00:26,247: asyncio: INFO: [NewsPrinter] Executing the initialize lifecycle method
+2024-05-16 14:00:27,713: root: INFO: Current backtesting datetime 2020-01-02 08:30:00-05:00
+2024-05-16 14:00:27,713: asyncio: INFO: [NewsPrinter] Executing the before_market_opens lifecycle method
+2024-05-16 14:00:27,719: root: INFO: Current backtesting datetime 2020-01-02 09:30:00-05:00
+2024-05-16 14:00:27,719: asyncio: INFO: [NewsPrinter] Executing the before_starting_trading lifecycle method
+2024-05-16 14:00:27,721: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:27
+2024-05-16 14:00:29,528: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:29
+2024-05-16 14:00:29,606: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:29,609: root: INFO: Current backtesting datetime 2020-01-02 09:31:00-05:00
+2024-05-16 14:00:29,609: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:29
+2024-05-16 14:00:30,151: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:30
+2024-05-16 14:00:30,151: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:30,157: root: INFO: Current backtesting datetime 2020-01-02 09:32:00-05:00
+2024-05-16 14:00:30,157: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:30
+2024-05-16 14:00:30,769: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:30
+2024-05-16 14:00:30,769: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:30,769: root: INFO: Current backtesting datetime 2020-01-02 09:33:00-05:00
+2024-05-16 14:00:30,769: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:30
+2024-05-16 14:00:31,581: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:31
+2024-05-16 14:00:31,581: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:31,581: root: INFO: Current backtesting datetime 2020-01-02 09:34:00-05:00
+2024-05-16 14:00:31,581: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:31
+2024-05-16 14:00:31,997: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:31
+2024-05-16 14:00:32,047: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:32,047: root: INFO: Current backtesting datetime 2020-01-02 09:35:00-05:00
+2024-05-16 14:00:32,058: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:32
+2024-05-16 14:00:32,508: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:32
+2024-05-16 14:00:32,508: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:32,508: root: INFO: Current backtesting datetime 2020-01-02 09:36:00-05:00
+2024-05-16 14:00:32,508: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:32
+2024-05-16 14:00:32,826: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:32
+2024-05-16 14:00:32,826: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:32,831: root: INFO: Current backtesting datetime 2020-01-02 09:37:00-05:00
+2024-05-16 14:00:32,831: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:32
+2024-05-16 14:00:33,213: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:33
+2024-05-16 14:00:33,228: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:33,228: root: INFO: Current backtesting datetime 2020-01-02 09:38:00-05:00
+2024-05-16 14:00:33,228: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:33
+2024-05-16 14:00:33,555: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:33
+2024-05-16 14:00:33,555: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:33,555: root: INFO: Current backtesting datetime 2020-01-02 09:39:00-05:00
+2024-05-16 14:00:33,555: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:33
+2024-05-16 14:00:34,043: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:34
+2024-05-16 14:00:34,043: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:34,043: root: INFO: Current backtesting datetime 2020-01-02 09:40:00-05:00
+2024-05-16 14:00:34,043: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:34
+2024-05-16 14:00:34,451: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:34
+2024-05-16 14:00:34,451: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:34,451: root: INFO: Current backtesting datetime 2020-01-02 09:41:00-05:00
+2024-05-16 14:00:34,459: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:34
+2024-05-16 14:00:34,778: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:34
+2024-05-16 14:00:34,787: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:34,787: root: INFO: Current backtesting datetime 2020-01-02 09:42:00-05:00
+2024-05-16 14:00:34,787: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:34
+2024-05-16 14:00:35,215: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:35
+2024-05-16 14:00:35,215: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:35,215: root: INFO: Current backtesting datetime 2020-01-02 09:43:00-05:00
+2024-05-16 14:00:35,231: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:35
+2024-05-16 14:00:35,545: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:35
+2024-05-16 14:00:35,545: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:35,545: root: INFO: Current backtesting datetime 2020-01-02 09:44:00-05:00
+2024-05-16 14:00:35,555: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:35
+2024-05-16 14:00:35,881: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:35
+2024-05-16 14:00:35,889: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:35,894: root: INFO: Current backtesting datetime 2020-01-02 09:45:00-05:00
+2024-05-16 14:00:35,897: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:35
+2024-05-16 14:00:36,225: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:36
+2024-05-16 14:00:36,225: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:36,225: root: INFO: Current backtesting datetime 2020-01-02 09:46:00-05:00
+2024-05-16 14:00:36,225: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:36
+2024-05-16 14:00:36,912: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:36
+2024-05-16 14:00:36,912: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:36,917: root: INFO: Current backtesting datetime 2020-01-02 09:47:00-05:00
+2024-05-16 14:00:36,917: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:36
+2024-05-16 14:00:37,316: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:37
+2024-05-16 14:00:37,316: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:37,316: root: INFO: Current backtesting datetime 2020-01-02 09:48:00-05:00
+2024-05-16 14:00:37,316: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:37
+2024-05-16 14:00:37,930: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:37
+2024-05-16 14:00:37,938: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:37,938: root: INFO: Current backtesting datetime 2020-01-02 09:49:00-05:00
+2024-05-16 14:00:37,942: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:37
+2024-05-16 14:00:38,550: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:38
+2024-05-16 14:00:38,550: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:38,550: root: INFO: Current backtesting datetime 2020-01-02 09:50:00-05:00
+2024-05-16 14:00:38,550: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:38
+2024-05-16 14:00:38,877: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:38
+2024-05-16 14:00:38,878: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:38,878: root: INFO: Current backtesting datetime 2020-01-02 09:51:00-05:00
+2024-05-16 14:00:38,882: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:38
+2024-05-16 14:00:39,256: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:39
+2024-05-16 14:00:39,256: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:39,272: root: INFO: Current backtesting datetime 2020-01-02 09:52:00-05:00
+2024-05-16 14:00:39,272: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:39
+2024-05-16 14:00:39,779: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:39
+2024-05-16 14:00:39,779: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:39,783: root: INFO: Current backtesting datetime 2020-01-02 09:53:00-05:00
+2024-05-16 14:00:39,783: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:39
+2024-05-16 14:00:40,599: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:40
+2024-05-16 14:00:40,599: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:40,599: root: INFO: Current backtesting datetime 2020-01-02 09:54:00-05:00
+2024-05-16 14:00:40,599: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:40
+2024-05-16 14:00:41,464: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:41
+2024-05-16 14:00:41,464: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:41,464: root: INFO: Current backtesting datetime 2020-01-02 09:55:00-05:00
+2024-05-16 14:00:41,464: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:41
+2024-05-16 14:00:41,774: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:41
+2024-05-16 14:00:41,774: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:41,774: root: INFO: Current backtesting datetime 2020-01-02 09:56:00-05:00
+2024-05-16 14:00:41,774: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:41
+2024-05-16 14:00:42,133: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:42
+2024-05-16 14:00:42,133: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:42,133: root: INFO: Current backtesting datetime 2020-01-02 09:57:00-05:00
+2024-05-16 14:00:42,133: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:42
+2024-05-16 14:00:42,639: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:42
+2024-05-16 14:00:42,639: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:42,639: root: INFO: Current backtesting datetime 2020-01-02 09:58:00-05:00
+2024-05-16 14:00:42,639: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:42
+2024-05-16 14:00:43,260: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:43
+2024-05-16 14:00:43,263: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:43,264: root: INFO: Current backtesting datetime 2020-01-02 09:59:00-05:00
+2024-05-16 14:00:43,264: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:43
+2024-05-16 14:00:43,870: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:43
+2024-05-16 14:00:43,878: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:43,878: root: INFO: Current backtesting datetime 2020-01-02 10:00:00-05:00
+2024-05-16 14:00:43,883: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:43
+2024-05-16 14:00:44,301: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:44
+2024-05-16 14:00:44,308: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:44,310: root: INFO: Current backtesting datetime 2020-01-02 10:01:00-05:00
+2024-05-16 14:00:44,310: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:44
+2024-05-16 14:00:44,691: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:44
+2024-05-16 14:00:44,695: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:44,695: root: INFO: Current backtesting datetime 2020-01-02 10:02:00-05:00
+2024-05-16 14:00:44,695: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:44
+2024-05-16 14:00:45,310: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:45
+2024-05-16 14:00:45,312: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:45,314: root: INFO: Current backtesting datetime 2020-01-02 10:03:00-05:00
+2024-05-16 14:00:45,315: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:45
+2024-05-16 14:00:46,111: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:46
+2024-05-16 14:00:46,111: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:46,120: root: INFO: Current backtesting datetime 2020-01-02 10:04:00-05:00
+2024-05-16 14:00:46,120: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:46
+2024-05-16 14:00:46,434: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:46
+2024-05-16 14:00:46,434: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:46,434: root: INFO: Current backtesting datetime 2020-01-02 10:05:00-05:00
+2024-05-16 14:00:46,434: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:46
+2024-05-16 14:00:47,156: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:47
+2024-05-16 14:00:47,158: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:47,159: root: INFO: Current backtesting datetime 2020-01-02 10:06:00-05:00
+2024-05-16 14:00:47,159: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:47
+2024-05-16 14:00:47,557: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:47
+2024-05-16 14:00:47,557: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:47,557: root: INFO: Current backtesting datetime 2020-01-02 10:07:00-05:00
+2024-05-16 14:00:47,557: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:47
+2024-05-16 14:00:47,983: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:47
+2024-05-16 14:00:47,983: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:47,983: root: INFO: Current backtesting datetime 2020-01-02 10:08:00-05:00
+2024-05-16 14:00:47,983: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:47
+2024-05-16 14:00:48,317: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:48
+2024-05-16 14:00:48,317: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:48,317: root: INFO: Current backtesting datetime 2020-01-02 10:09:00-05:00
+2024-05-16 14:00:48,317: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:48
+2024-05-16 14:00:48,676: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:48
+2024-05-16 14:00:48,676: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:48,692: root: INFO: Current backtesting datetime 2020-01-02 10:10:00-05:00
+2024-05-16 14:00:48,692: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:48
+2024-05-16 14:00:49,406: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:49
+2024-05-16 14:00:49,408: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:49,409: root: INFO: Current backtesting datetime 2020-01-02 10:11:00-05:00
+2024-05-16 14:00:49,412: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:49
+2024-05-16 14:00:50,029: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:50
+2024-05-16 14:00:50,029: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:50,035: root: INFO: Current backtesting datetime 2020-01-02 10:12:00-05:00
+2024-05-16 14:00:50,035: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:50
+2024-05-16 14:00:50,632: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:50
+2024-05-16 14:00:50,632: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:50,632: root: INFO: Current backtesting datetime 2020-01-02 10:13:00-05:00
+2024-05-16 14:00:50,632: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:50
+2024-05-16 14:00:51,449: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:51
+2024-05-16 14:00:51,449: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:51,449: root: INFO: Current backtesting datetime 2020-01-02 10:14:00-05:00
+2024-05-16 14:00:51,449: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:51
+2024-05-16 14:00:52,267: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:52
+2024-05-16 14:00:52,267: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:52,267: root: INFO: Current backtesting datetime 2020-01-02 10:15:00-05:00
+2024-05-16 14:00:52,267: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:52
+2024-05-16 14:00:52,634: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:52
+2024-05-16 14:00:52,634: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:52,650: root: INFO: Current backtesting datetime 2020-01-02 10:16:00-05:00
+2024-05-16 14:00:52,650: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:52
+2024-05-16 14:00:52,980: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:52
+2024-05-16 14:00:52,980: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:52,980: root: INFO: Current backtesting datetime 2020-01-02 10:17:00-05:00
+2024-05-16 14:00:52,980: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:52
+2024-05-16 14:00:53,395: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:53
+2024-05-16 14:00:53,395: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:53,395: root: INFO: Current backtesting datetime 2020-01-02 10:18:00-05:00
+2024-05-16 14:00:53,395: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:53
+2024-05-16 14:00:54,313: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:54
+2024-05-16 14:00:54,321: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:54,321: root: INFO: Current backtesting datetime 2020-01-02 10:19:00-05:00
+2024-05-16 14:00:54,325: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:54
+2024-05-16 14:00:54,687: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:54
+2024-05-16 14:00:54,691: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:54,691: root: INFO: Current backtesting datetime 2020-01-02 10:20:00-05:00
+2024-05-16 14:00:54,695: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:54
+2024-05-16 14:00:55,137: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:55
+2024-05-16 14:00:55,137: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:55,137: root: INFO: Current backtesting datetime 2020-01-02 10:21:00-05:00
+2024-05-16 14:00:55,137: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:55
+2024-05-16 14:00:55,547: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:55
+2024-05-16 14:00:55,547: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:55,547: root: INFO: Current backtesting datetime 2020-01-02 10:22:00-05:00
+2024-05-16 14:00:55,547: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:55
+2024-05-16 14:00:55,960: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:55
+2024-05-16 14:00:55,965: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:55,965: root: INFO: Current backtesting datetime 2020-01-02 10:23:00-05:00
+2024-05-16 14:00:55,965: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:55
+2024-05-16 14:00:56,362: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:56
+2024-05-16 14:00:56,362: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:56,362: root: INFO: Current backtesting datetime 2020-01-02 10:24:00-05:00
+2024-05-16 14:00:56,378: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:56
+2024-05-16 14:00:57,184: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:57
+2024-05-16 14:00:57,193: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:57,195: root: INFO: Current backtesting datetime 2020-01-02 10:25:00-05:00
+2024-05-16 14:00:57,195: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:57
+2024-05-16 14:00:57,800: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:57
+2024-05-16 14:00:57,804: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:57,804: root: INFO: Current backtesting datetime 2020-01-02 10:26:00-05:00
+2024-05-16 14:00:57,804: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:57
+2024-05-16 14:00:58,519: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:58
+2024-05-16 14:00:58,519: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:58,519: root: INFO: Current backtesting datetime 2020-01-02 10:27:00-05:00
+2024-05-16 14:00:58,519: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:58
+2024-05-16 14:00:58,927: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:58
+2024-05-16 14:00:58,927: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:58,927: root: INFO: Current backtesting datetime 2020-01-02 10:28:00-05:00
+2024-05-16 14:00:58,927: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:58
+2024-05-16 14:00:59,646: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:00:59
+2024-05-16 14:00:59,646: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:00:59,646: root: INFO: Current backtesting datetime 2020-01-02 10:29:00-05:00
+2024-05-16 14:00:59,654: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:00:59
+2024-05-16 14:01:00,181: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:00
+2024-05-16 14:01:00,181: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:00,181: root: INFO: Current backtesting datetime 2020-01-02 10:30:00-05:00
+2024-05-16 14:01:00,181: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:00
+2024-05-16 14:01:00,507: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:00
+2024-05-16 14:01:00,509: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:00,509: root: INFO: Current backtesting datetime 2020-01-02 10:31:00-05:00
+2024-05-16 14:01:00,509: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:00
+2024-05-16 14:01:00,874: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:00
+2024-05-16 14:01:00,876: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:00,876: root: INFO: Current backtesting datetime 2020-01-02 10:32:00-05:00
+2024-05-16 14:01:00,876: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:00
+2024-05-16 14:01:01,490: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:01
+2024-05-16 14:01:01,492: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:01,492: root: INFO: Current backtesting datetime 2020-01-02 10:33:00-05:00
+2024-05-16 14:01:01,495: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:01
+2024-05-16 14:01:02,307: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:02
+2024-05-16 14:01:02,313: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:02,313: root: INFO: Current backtesting datetime 2020-01-02 10:34:00-05:00
+2024-05-16 14:01:02,313: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:02
+2024-05-16 14:01:02,920: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:02
+2024-05-16 14:01:02,920: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:02,920: root: INFO: Current backtesting datetime 2020-01-02 10:35:00-05:00
+2024-05-16 14:01:02,920: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:02
+2024-05-16 14:01:03,534: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:03
+2024-05-16 14:01:03,534: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:03,540: root: INFO: Current backtesting datetime 2020-01-02 10:36:00-05:00
+2024-05-16 14:01:03,541: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:03
+2024-05-16 14:01:04,149: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:04
+2024-05-16 14:01:04,149: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:04,162: root: INFO: Current backtesting datetime 2020-01-02 10:37:00-05:00
+2024-05-16 14:01:04,162: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:04
+2024-05-16 14:01:04,764: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:04
+2024-05-16 14:01:04,780: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:04,780: root: INFO: Current backtesting datetime 2020-01-02 10:38:00-05:00
+2024-05-16 14:01:04,789: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:04
+2024-05-16 14:01:05,373: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:05
+2024-05-16 14:01:05,373: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:05,373: root: INFO: Current backtesting datetime 2020-01-02 10:39:00-05:00
+2024-05-16 14:01:05,385: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:05
+2024-05-16 14:01:05,879: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:05
+2024-05-16 14:01:05,879: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:05,888: root: INFO: Current backtesting datetime 2020-01-02 10:40:00-05:00
+2024-05-16 14:01:05,888: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:05
+2024-05-16 14:01:06,197: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:06
+2024-05-16 14:01:06,197: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:06,197: root: INFO: Current backtesting datetime 2020-01-02 10:41:00-05:00
+2024-05-16 14:01:06,197: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:06
+2024-05-16 14:01:06,500: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:06
+2024-05-16 14:01:06,500: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:06,500: root: INFO: Current backtesting datetime 2020-01-02 10:42:00-05:00
+2024-05-16 14:01:06,500: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:06
+2024-05-16 14:01:06,914: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:06
+2024-05-16 14:01:06,914: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:06,914: root: INFO: Current backtesting datetime 2020-01-02 10:43:00-05:00
+2024-05-16 14:01:06,914: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:06
+2024-05-16 14:01:07,233: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:07
+2024-05-16 14:01:07,242: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:07,242: root: INFO: Current backtesting datetime 2020-01-02 10:44:00-05:00
+2024-05-16 14:01:07,246: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:07
+2024-05-16 14:01:07,632: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:07
+2024-05-16 14:01:07,632: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:07,632: root: INFO: Current backtesting datetime 2020-01-02 10:45:00-05:00
+2024-05-16 14:01:07,632: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:07
+2024-05-16 14:01:07,958: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:07
+2024-05-16 14:01:07,958: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:07,958: root: INFO: Current backtesting datetime 2020-01-02 10:46:00-05:00
+2024-05-16 14:01:07,973: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:07
+2024-05-16 14:01:08,345: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:08
+2024-05-16 14:01:08,345: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:08,345: root: INFO: Current backtesting datetime 2020-01-02 10:47:00-05:00
+2024-05-16 14:01:08,345: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:08
+2024-05-16 14:01:08,667: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:08
+2024-05-16 14:01:08,672: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:08,673: root: INFO: Current backtesting datetime 2020-01-02 10:48:00-05:00
+2024-05-16 14:01:08,674: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:08
+2024-05-16 14:01:09,030: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:09
+2024-05-16 14:01:09,078: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:09,078: root: INFO: Current backtesting datetime 2020-01-02 10:49:00-05:00
+2024-05-16 14:01:09,078: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:09
+2024-05-16 14:01:09,470: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:09
+2024-05-16 14:01:09,477: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:09,477: root: INFO: Current backtesting datetime 2020-01-02 10:50:00-05:00
+2024-05-16 14:01:09,477: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:09
+2024-05-16 14:01:09,869: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:09
+2024-05-16 14:01:09,872: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:09,874: root: INFO: Current backtesting datetime 2020-01-02 10:51:00-05:00
+2024-05-16 14:01:09,876: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:09
+2024-05-16 14:01:10,297: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:10
+2024-05-16 14:01:10,297: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:10,297: root: INFO: Current backtesting datetime 2020-01-02 10:52:00-05:00
+2024-05-16 14:01:10,297: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:10
+2024-05-16 14:01:10,935: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:10
+2024-05-16 14:01:10,935: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:10,935: root: INFO: Current backtesting datetime 2020-01-02 10:53:00-05:00
+2024-05-16 14:01:10,935: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:10
+2024-05-16 14:01:11,314: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:11
+2024-05-16 14:01:11,314: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:11,314: root: INFO: Current backtesting datetime 2020-01-02 10:54:00-05:00
+2024-05-16 14:01:11,314: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:11
+2024-05-16 14:01:11,821: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:11
+2024-05-16 14:01:11,822: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:11,822: root: INFO: Current backtesting datetime 2020-01-02 10:55:00-05:00
+2024-05-16 14:01:11,822: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:11
+2024-05-16 14:01:12,136: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:12
+2024-05-16 14:01:12,139: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:12,139: root: INFO: Current backtesting datetime 2020-01-02 10:56:00-05:00
+2024-05-16 14:01:12,139: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:12
+2024-05-16 14:01:12,653: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:12
+2024-05-16 14:01:12,653: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:12,653: root: INFO: Current backtesting datetime 2020-01-02 10:57:00-05:00
+2024-05-16 14:01:12,669: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:12
+2024-05-16 14:01:13,062: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:13
+2024-05-16 14:01:13,062: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:13,066: root: INFO: Current backtesting datetime 2020-01-02 10:58:00-05:00
+2024-05-16 14:01:13,066: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:13
+2024-05-16 14:01:13,397: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:13
+2024-05-16 14:01:13,397: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:13,397: root: INFO: Current backtesting datetime 2020-01-02 10:59:00-05:00
+2024-05-16 14:01:13,397: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:13
+2024-05-16 14:01:13,906: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:13
+2024-05-16 14:01:13,908: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:13,908: root: INFO: Current backtesting datetime 2020-01-02 11:00:00-05:00
+2024-05-16 14:01:13,908: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:13
+2024-05-16 14:01:14,220: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:14
+2024-05-16 14:01:14,235: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:14,235: root: INFO: Current backtesting datetime 2020-01-02 11:01:00-05:00
+2024-05-16 14:01:14,235: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:14
+2024-05-16 14:01:14,551: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:14
+2024-05-16 14:01:14,551: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:14,551: root: INFO: Current backtesting datetime 2020-01-02 11:02:00-05:00
+2024-05-16 14:01:14,551: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:14
+2024-05-16 14:01:14,897: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:14
+2024-05-16 14:01:14,897: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:14,897: root: INFO: Current backtesting datetime 2020-01-02 11:03:00-05:00
+2024-05-16 14:01:14,897: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:14
+2024-05-16 14:01:15,212: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:15
+2024-05-16 14:01:15,212: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:15,212: root: INFO: Current backtesting datetime 2020-01-02 11:04:00-05:00
+2024-05-16 14:01:15,227: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:15
+2024-05-16 14:01:15,544: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:15
+2024-05-16 14:01:15,544: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:15,560: root: INFO: Current backtesting datetime 2020-01-02 11:05:00-05:00
+2024-05-16 14:01:15,560: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:15
+2024-05-16 14:01:15,879: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:15
+2024-05-16 14:01:15,879: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:15,879: root: INFO: Current backtesting datetime 2020-01-02 11:06:00-05:00
+2024-05-16 14:01:15,895: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:15
+2024-05-16 14:01:16,613: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:16
+2024-05-16 14:01:16,613: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:16,613: root: INFO: Current backtesting datetime 2020-01-02 11:07:00-05:00
+2024-05-16 14:01:16,613: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:16
+2024-05-16 14:01:16,939: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:16
+2024-05-16 14:01:16,939: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:16,954: root: INFO: Current backtesting datetime 2020-01-02 11:08:00-05:00
+2024-05-16 14:01:16,954: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:16
+2024-05-16 14:01:17,603: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:17
+2024-05-16 14:01:17,603: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:17,603: root: INFO: Current backtesting datetime 2020-01-02 11:09:00-05:00
+2024-05-16 14:01:17,619: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:17
+2024-05-16 14:01:17,932: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:17
+2024-05-16 14:01:17,937: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:17,937: root: INFO: Current backtesting datetime 2020-01-02 11:10:00-05:00
+2024-05-16 14:01:17,937: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:17
+2024-05-16 14:01:18,240: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:18
+2024-05-16 14:01:18,240: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:18,240: root: INFO: Current backtesting datetime 2020-01-02 11:11:00-05:00
+2024-05-16 14:01:18,255: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:18
+2024-05-16 14:01:18,671: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:18
+2024-05-16 14:01:18,672: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:18,672: root: INFO: Current backtesting datetime 2020-01-02 11:12:00-05:00
+2024-05-16 14:01:18,681: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:18
+2024-05-16 14:01:18,996: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:18
+2024-05-16 14:01:18,996: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:19,009: root: INFO: Current backtesting datetime 2020-01-02 11:13:00-05:00
+2024-05-16 14:01:19,012: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:19
+2024-05-16 14:01:19,312: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:19
+2024-05-16 14:01:19,325: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:19,327: root: INFO: Current backtesting datetime 2020-01-02 11:14:00-05:00
+2024-05-16 14:01:19,330: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:19
+2024-05-16 14:01:19,709: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:19
+2024-05-16 14:01:19,709: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:19,709: root: INFO: Current backtesting datetime 2020-01-02 11:15:00-05:00
+2024-05-16 14:01:19,709: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:19
+2024-05-16 14:01:20,053: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:20
+2024-05-16 14:01:20,053: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:20,053: root: INFO: Current backtesting datetime 2020-01-02 11:16:00-05:00
+2024-05-16 14:01:20,053: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:20
+2024-05-16 14:01:20,399: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:20
+2024-05-16 14:01:20,399: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:20,415: root: INFO: Current backtesting datetime 2020-01-02 11:17:00-05:00
+2024-05-16 14:01:20,415: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:20
+2024-05-16 14:01:20,745: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:20
+2024-05-16 14:01:20,745: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:20,745: root: INFO: Current backtesting datetime 2020-01-02 11:18:00-05:00
+2024-05-16 14:01:20,745: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:20
+2024-05-16 14:01:21,109: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:21
+2024-05-16 14:01:21,109: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:21,125: root: INFO: Current backtesting datetime 2020-01-02 11:19:00-05:00
+2024-05-16 14:01:21,125: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:21
+2024-05-16 14:01:21,470: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:21
+2024-05-16 14:01:21,470: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:21,470: root: INFO: Current backtesting datetime 2020-01-02 11:20:00-05:00
+2024-05-16 14:01:21,470: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:21
+2024-05-16 14:01:21,801: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:21
+2024-05-16 14:01:21,816: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:21,820: root: INFO: Current backtesting datetime 2020-01-02 11:21:00-05:00
+2024-05-16 14:01:21,820: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:21
+2024-05-16 14:01:22,148: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:22
+2024-05-16 14:01:22,150: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:22,151: root: INFO: Current backtesting datetime 2020-01-02 11:22:00-05:00
+2024-05-16 14:01:22,152: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:22
+2024-05-16 14:01:22,446: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:22
+2024-05-16 14:01:22,464: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:22,525: root: INFO: Current backtesting datetime 2020-01-02 11:23:00-05:00
+2024-05-16 14:01:22,525: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:22
+2024-05-16 14:01:22,840: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:22
+2024-05-16 14:01:22,856: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:22,857: root: INFO: Current backtesting datetime 2020-01-02 11:24:00-05:00
+2024-05-16 14:01:22,857: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:22
+2024-05-16 14:01:23,172: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:23
+2024-05-16 14:01:23,172: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:23,172: root: INFO: Current backtesting datetime 2020-01-02 11:25:00-05:00
+2024-05-16 14:01:23,172: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:23
+2024-05-16 14:01:23,562: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:23
+2024-05-16 14:01:23,566: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:23,566: root: INFO: Current backtesting datetime 2020-01-02 11:26:00-05:00
+2024-05-16 14:01:23,566: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:23
+2024-05-16 14:01:23,879: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:23
+2024-05-16 14:01:23,895: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:23,895: root: INFO: Current backtesting datetime 2020-01-02 11:27:00-05:00
+2024-05-16 14:01:23,895: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:23
+2024-05-16 14:01:24,226: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:24
+2024-05-16 14:01:24,226: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:24,226: root: INFO: Current backtesting datetime 2020-01-02 11:28:00-05:00
+2024-05-16 14:01:24,226: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:24
+2024-05-16 14:01:24,557: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:24
+2024-05-16 14:01:24,572: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:24,572: root: INFO: Current backtesting datetime 2020-01-02 11:29:00-05:00
+2024-05-16 14:01:24,572: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:24
+2024-05-16 14:01:24,893: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:24
+2024-05-16 14:01:24,896: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:24,896: root: INFO: Current backtesting datetime 2020-01-02 11:30:00-05:00
+2024-05-16 14:01:24,896: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:24
+2024-05-16 14:01:25,209: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:25
+2024-05-16 14:01:25,255: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:25,255: root: INFO: Current backtesting datetime 2020-01-02 11:31:00-05:00
+2024-05-16 14:01:25,255: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:25
+2024-05-16 14:01:25,571: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:25
+2024-05-16 14:01:25,571: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:25,571: root: INFO: Current backtesting datetime 2020-01-02 11:32:00-05:00
+2024-05-16 14:01:25,571: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:25
+2024-05-16 14:01:25,885: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:25
+2024-05-16 14:01:25,885: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:25,885: root: INFO: Current backtesting datetime 2020-01-02 11:33:00-05:00
+2024-05-16 14:01:25,885: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:25
+2024-05-16 14:01:26,199: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:26
+2024-05-16 14:01:26,199: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:26,214: root: INFO: Current backtesting datetime 2020-01-02 11:34:00-05:00
+2024-05-16 14:01:26,214: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:26
+2024-05-16 14:01:26,529: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:26
+2024-05-16 14:01:26,529: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:26,529: root: INFO: Current backtesting datetime 2020-01-02 11:35:00-05:00
+2024-05-16 14:01:26,544: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:26
+2024-05-16 14:01:26,843: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:26
+2024-05-16 14:01:26,843: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:26,858: root: INFO: Current backtesting datetime 2020-01-02 11:36:00-05:00
+2024-05-16 14:01:26,858: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:26
+2024-05-16 14:01:27,157: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:27
+2024-05-16 14:01:27,157: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:27,157: root: INFO: Current backtesting datetime 2020-01-02 11:37:00-05:00
+2024-05-16 14:01:27,173: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:27
+2024-05-16 14:01:27,472: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:27
+2024-05-16 14:01:27,472: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:27,486: root: INFO: Current backtesting datetime 2020-01-02 11:38:00-05:00
+2024-05-16 14:01:27,488: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:27
+2024-05-16 14:01:27,817: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:27
+2024-05-16 14:01:27,819: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:27,819: root: INFO: Current backtesting datetime 2020-01-02 11:39:00-05:00
+2024-05-16 14:01:27,819: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:27
+2024-05-16 14:01:28,119: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:28
+2024-05-16 14:01:28,119: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:28,134: root: INFO: Current backtesting datetime 2020-01-02 11:40:00-05:00
+2024-05-16 14:01:28,135: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:28
+2024-05-16 14:01:28,481: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:28
+2024-05-16 14:01:28,481: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:28,481: root: INFO: Current backtesting datetime 2020-01-02 11:41:00-05:00
+2024-05-16 14:01:28,481: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:28
+2024-05-16 14:01:28,803: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:28
+2024-05-16 14:01:28,803: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:28,811: root: INFO: Current backtesting datetime 2020-01-02 11:42:00-05:00
+2024-05-16 14:01:28,811: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:28
+2024-05-16 14:01:29,202: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:29
+2024-05-16 14:01:29,205: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:29,206: root: INFO: Current backtesting datetime 2020-01-02 11:43:00-05:00
+2024-05-16 14:01:29,208: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:29
+2024-05-16 14:01:29,505: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:29
+2024-05-16 14:01:29,505: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:29,505: root: INFO: Current backtesting datetime 2020-01-02 11:44:00-05:00
+2024-05-16 14:01:29,505: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:29
+2024-05-16 14:01:29,822: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:29
+2024-05-16 14:01:29,822: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:29,822: root: INFO: Current backtesting datetime 2020-01-02 11:45:00-05:00
+2024-05-16 14:01:29,822: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:29
+2024-05-16 14:01:30,260: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:30
+2024-05-16 14:01:30,260: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:30,260: root: INFO: Current backtesting datetime 2020-01-02 11:46:00-05:00
+2024-05-16 14:01:30,268: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:30
+2024-05-16 14:01:30,593: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:30
+2024-05-16 14:01:30,599: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:30,600: root: INFO: Current backtesting datetime 2020-01-02 11:47:00-05:00
+2024-05-16 14:01:30,600: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:30
+2024-05-16 14:01:30,908: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:30
+2024-05-16 14:01:30,916: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:30,916: root: INFO: Current backtesting datetime 2020-01-02 11:48:00-05:00
+2024-05-16 14:01:30,916: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:30
+2024-05-16 14:01:31,381: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:31
+2024-05-16 14:01:31,381: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:31,381: root: INFO: Current backtesting datetime 2020-01-02 11:49:00-05:00
+2024-05-16 14:01:31,397: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:31
+2024-05-16 14:01:31,712: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:31
+2024-05-16 14:01:31,712: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:31,712: root: INFO: Current backtesting datetime 2020-01-02 11:50:00-05:00
+2024-05-16 14:01:31,712: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:31
+2024-05-16 14:01:32,205: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:32
+2024-05-16 14:01:32,209: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:32,209: root: INFO: Current backtesting datetime 2020-01-02 11:51:00-05:00
+2024-05-16 14:01:32,209: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:32
+2024-05-16 14:01:32,933: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:32
+2024-05-16 14:01:32,933: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:32,933: root: INFO: Current backtesting datetime 2020-01-02 11:52:00-05:00
+2024-05-16 14:01:32,933: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:32
+2024-05-16 14:01:33,633: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:33
+2024-05-16 14:01:33,645: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:33,651: root: INFO: Current backtesting datetime 2020-01-02 11:53:00-05:00
+2024-05-16 14:01:33,651: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:33
+2024-05-16 14:01:34,250: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:34
+2024-05-16 14:01:34,250: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:34,250: root: INFO: Current backtesting datetime 2020-01-02 11:54:00-05:00
+2024-05-16 14:01:34,261: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:34
+2024-05-16 14:01:34,661: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:34
+2024-05-16 14:01:34,661: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:34,677: root: INFO: Current backtesting datetime 2020-01-02 11:55:00-05:00
+2024-05-16 14:01:34,677: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:34
+2024-05-16 14:01:35,283: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:35
+2024-05-16 14:01:35,283: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:35,283: root: INFO: Current backtesting datetime 2020-01-02 11:56:00-05:00
+2024-05-16 14:01:35,283: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:35
+2024-05-16 14:01:35,613: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:35
+2024-05-16 14:01:35,613: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:35,618: root: INFO: Current backtesting datetime 2020-01-02 11:57:00-05:00
+2024-05-16 14:01:35,618: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:35
+2024-05-16 14:01:36,362: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:36
+2024-05-16 14:01:36,362: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:36,362: root: INFO: Current backtesting datetime 2020-01-02 11:58:00-05:00
+2024-05-16 14:01:36,362: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:36
+2024-05-16 14:01:37,096: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:37
+2024-05-16 14:01:37,096: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:37,096: root: INFO: Current backtesting datetime 2020-01-02 11:59:00-05:00
+2024-05-16 14:01:37,096: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:37
+2024-05-16 14:01:37,517: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:37
+2024-05-16 14:01:37,531: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:37,531: root: INFO: Current backtesting datetime 2020-01-02 12:00:00-05:00
+2024-05-16 14:01:37,531: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:37
+2024-05-16 14:01:37,942: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:37
+2024-05-16 14:01:37,942: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:37,942: root: INFO: Current backtesting datetime 2020-01-02 12:01:00-05:00
+2024-05-16 14:01:37,942: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:37
+2024-05-16 14:01:38,269: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:38
+2024-05-16 14:01:38,284: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:38,284: root: INFO: Current backtesting datetime 2020-01-02 12:02:00-05:00
+2024-05-16 14:01:38,284: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:38
+2024-05-16 14:01:38,658: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:38
+2024-05-16 14:01:38,664: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:38,666: root: INFO: Current backtesting datetime 2020-01-02 12:03:00-05:00
+2024-05-16 14:01:38,668: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:38
+2024-05-16 14:01:39,057: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:39
+2024-05-16 14:01:39,057: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:39,072: root: INFO: Current backtesting datetime 2020-01-02 12:04:00-05:00
+2024-05-16 14:01:39,072: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:39
+2024-05-16 14:01:39,467: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:39
+2024-05-16 14:01:39,467: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:39,482: root: INFO: Current backtesting datetime 2020-01-02 12:05:00-05:00
+2024-05-16 14:01:39,482: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:39
+2024-05-16 14:01:39,889: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:39
+2024-05-16 14:01:39,889: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:39,896: root: INFO: Current backtesting datetime 2020-01-02 12:06:00-05:00
+2024-05-16 14:01:39,896: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:39
+2024-05-16 14:01:40,633: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:40
+2024-05-16 14:01:40,633: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:40,633: root: INFO: Current backtesting datetime 2020-01-02 12:07:00-05:00
+2024-05-16 14:01:40,641: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:40
+2024-05-16 14:01:40,952: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:40
+2024-05-16 14:01:40,952: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:40,952: root: INFO: Current backtesting datetime 2020-01-02 12:08:00-05:00
+2024-05-16 14:01:40,952: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:40
+2024-05-16 14:01:41,313: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:41
+2024-05-16 14:01:41,313: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:41,313: root: INFO: Current backtesting datetime 2020-01-02 12:09:00-05:00
+2024-05-16 14:01:41,313: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:41
+2024-05-16 14:01:41,834: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:41
+2024-05-16 14:01:41,837: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:41,840: root: INFO: Current backtesting datetime 2020-01-02 12:10:00-05:00
+2024-05-16 14:01:41,841: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:41
+2024-05-16 14:01:42,145: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:42
+2024-05-16 14:01:42,145: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:42,145: root: INFO: Current backtesting datetime 2020-01-02 12:11:00-05:00
+2024-05-16 14:01:42,145: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:42
+2024-05-16 14:01:42,538: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:42
+2024-05-16 14:01:42,554: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:42,554: root: INFO: Current backtesting datetime 2020-01-02 12:12:00-05:00
+2024-05-16 14:01:42,554: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:42
+2024-05-16 14:01:43,262: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:43
+2024-05-16 14:01:43,262: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:43,262: root: INFO: Current backtesting datetime 2020-01-02 12:13:00-05:00
+2024-05-16 14:01:43,278: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:43
+2024-05-16 14:01:44,141: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:44
+2024-05-16 14:01:44,141: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:44,141: root: INFO: Current backtesting datetime 2020-01-02 12:14:00-05:00
+2024-05-16 14:01:44,141: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:44
+2024-05-16 14:01:45,107: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:45
+2024-05-16 14:01:45,107: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:45,107: root: INFO: Current backtesting datetime 2020-01-02 12:15:00-05:00
+2024-05-16 14:01:45,107: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:45
+2024-05-16 14:01:46,075: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:46
+2024-05-16 14:01:46,075: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:46,075: root: INFO: Current backtesting datetime 2020-01-02 12:16:00-05:00
+2024-05-16 14:01:46,075: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:46
+2024-05-16 14:01:46,981: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:46
+2024-05-16 14:01:46,981: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:46,981: root: INFO: Current backtesting datetime 2020-01-02 12:17:00-05:00
+2024-05-16 14:01:46,981: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:46
+2024-05-16 14:01:47,363: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:47
+2024-05-16 14:01:47,363: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:47,370: root: INFO: Current backtesting datetime 2020-01-02 12:18:00-05:00
+2024-05-16 14:01:47,370: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:47
+2024-05-16 14:01:47,759: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:47
+2024-05-16 14:01:47,759: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:47,759: root: INFO: Current backtesting datetime 2020-01-02 12:19:00-05:00
+2024-05-16 14:01:47,759: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:47
+2024-05-16 14:01:48,097: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:48
+2024-05-16 14:01:48,101: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:48,104: root: INFO: Current backtesting datetime 2020-01-02 12:20:00-05:00
+2024-05-16 14:01:48,104: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:48
+2024-05-16 14:01:48,427: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:48
+2024-05-16 14:01:48,449: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:48,449: root: INFO: Current backtesting datetime 2020-01-02 12:21:00-05:00
+2024-05-16 14:01:48,449: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:48
+2024-05-16 14:01:48,794: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:48
+2024-05-16 14:01:48,794: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:48,794: root: INFO: Current backtesting datetime 2020-01-02 12:22:00-05:00
+2024-05-16 14:01:48,794: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:48
+2024-05-16 14:01:49,111: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:49
+2024-05-16 14:01:49,115: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:49,117: root: INFO: Current backtesting datetime 2020-01-02 12:23:00-05:00
+2024-05-16 14:01:49,118: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:49
+2024-05-16 14:01:49,506: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:49
+2024-05-16 14:01:49,506: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:49,517: root: INFO: Current backtesting datetime 2020-01-02 12:24:00-05:00
+2024-05-16 14:01:49,517: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:49
+2024-05-16 14:01:49,917: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:49
+2024-05-16 14:01:49,925: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:49,925: root: INFO: Current backtesting datetime 2020-01-02 12:25:00-05:00
+2024-05-16 14:01:49,925: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:49
+2024-05-16 14:01:50,640: asyncio: INFO: [NewsPrinter] Trading iteration ended at 2024-05-16 14:01:50
+2024-05-16 14:01:50,640: asyncio: INFO: [NewsPrinter] Sleeping for 60 seconds
+2024-05-16 14:01:50,640: root: INFO: Current backtesting datetime 2020-01-02 12:26:00-05:00
+2024-05-16 14:01:50,646: asyncio: INFO: [NewsPrinter] Executing the on_trading_iteration lifecycle method at 2024-05-16 14:01:50
